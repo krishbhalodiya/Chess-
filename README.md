@@ -33,17 +33,11 @@ This project is a Chess engine built using Python. It includes various AI implem
 ## Installation
 
 1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/your-username/ChessAI.git
-   \`\`\`
+   
 2. Navigate to the project directory:
-   \`\`\`bash
-   cd ChessAI
-   \`\`\`
+   
 3. Install the required dependencies:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
+   
 
 ## Usage
 
