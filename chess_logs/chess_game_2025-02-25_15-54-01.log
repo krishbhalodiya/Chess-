@@ -1,0 +1,742 @@
+2025-02-25 15:54:01,823 - INFO - Starting new chess game at 2025-02-25_15-54-01
+2025-02-25 15:54:15,011 - INFO - Analyzing 20 valid moves
+2025-02-25 15:54:15,011 - INFO - Searching at depth 1
+2025-02-25 15:54:15,022 - INFO - Best score at depth 1: -1.7763568394002505e-15
+2025-02-25 15:54:15,022 - INFO - Searching at depth 2
+2025-02-25 15:54:15,135 - INFO - Best score at depth 2: -0.500000000000008
+2025-02-25 15:54:15,135 - INFO - Searching at depth 3
+2025-02-25 15:54:16,346 - INFO - Best score at depth 3: -4.440892098500626e-15
+2025-02-25 15:54:16,346 - INFO - Best move at depth 3: b8c6
+2025-02-25 15:54:16,347 - INFO - Top move 1: b8c6 with score -1.7763568394002505e-15
+2025-02-25 15:54:16,347 - INFO - Top move 2: g8f6 with score -1.7763568394002505e-15
+2025-02-25 15:54:16,347 - INFO - Top move 3: e7e5 with score -0.1000000000000032
+2025-02-25 15:54:16,347 - INFO - Top move 4: d7d5 with score -0.1000000000000032
+2025-02-25 15:54:16,347 - INFO - Top move 5: e7e6 with score -0.29999999999999893
+2025-02-25 15:54:16,347 - INFO - Selected move: b8c6 with score -1.7763568394002505e-15
+2025-02-25 15:54:16,347 - INFO - Best move score: -1.7763568394002505e-15
+2025-02-25 15:54:16,347 - INFO - Move calculation took 1.34 seconds
+2025-02-25 15:54:17,347 - INFO - Analyzing 21 valid moves
+2025-02-25 15:54:17,347 - INFO - Searching at depth 1
+2025-02-25 15:54:17,362 - INFO - Best score at depth 1: 0.40000000000000036
+2025-02-25 15:54:17,362 - INFO - Searching at depth 2
+2025-02-25 15:54:17,463 - INFO - Best score at depth 2: -0.7999999999999936
+2025-02-25 15:54:17,463 - INFO - Searching at depth 3
+2025-02-25 15:54:18,809 - INFO - Best score at depth 3: 0.6999999999999975
+2025-02-25 15:54:18,809 - INFO - Best move at depth 3: c6d4
+2025-02-25 15:54:18,809 - INFO - Top move 1: g8f6 with score 0.40000000000000036
+2025-02-25 15:54:18,809 - INFO - Top move 2: e7e5 with score 0.29999999999999893
+2025-02-25 15:54:18,809 - INFO - Top move 3: d7d6 with score 0.09999999999999964
+2025-02-25 15:54:18,809 - INFO - Top move 4: e7e6 with score 0.09999999999999964
+2025-02-25 15:54:18,809 - INFO - Top move 5: g8h6 with score -1.7763568394002505e-15
+2025-02-25 15:54:18,809 - INFO - Selected move: c6d4 with score -1.7763568394002505e-15
+2025-02-25 15:54:18,809 - INFO - Best move score: 0.40000000000000036
+2025-02-25 15:54:18,809 - INFO - Move calculation took 1.46 seconds
+2025-02-25 15:54:20,111 - INFO - Analyzing 26 valid moves
+2025-02-25 15:54:20,111 - INFO - Searching at depth 1
+2025-02-25 15:54:20,135 - INFO - Best score at depth 1: 0.8999999999999861
+2025-02-25 15:54:20,135 - INFO - Searching at depth 2
+2025-02-25 15:54:20,223 - INFO - Best score at depth 2: -1.3499999999999974
+2025-02-25 15:54:20,223 - INFO - Searching at depth 3
+2025-02-25 15:54:21,133 - INFO - Best score at depth 3: 0.20000000000000462
+2025-02-25 15:54:21,133 - INFO - Best move at depth 3: g8f6
+2025-02-25 15:54:21,134 - INFO - Top move 1: d4c2 with score 0.8999999999999861
+2025-02-25 15:54:21,134 - INFO - Top move 2: g8f6 with score 0.29999999999999893
+2025-02-25 15:54:21,134 - INFO - Top move 3: e7e5 with score 0.1999999999999975
+2025-02-25 15:54:21,134 - INFO - Top move 4: d7d6 with score -1.7763568394002505e-15
+2025-02-25 15:54:21,134 - INFO - Top move 5: e7e6 with score -1.7763568394002505e-15
+2025-02-25 15:54:21,134 - INFO - Selected move: g8f6 with score 0.29999999999999893
+2025-02-25 15:54:21,134 - INFO - Best move score: 0.8999999999999861
+2025-02-25 15:54:21,134 - INFO - Move calculation took 1.02 seconds
+2025-02-25 15:54:22,027 - INFO - Analyzing 2 valid moves
+2025-02-25 15:54:22,027 - INFO - Searching at depth 1
+2025-02-25 15:54:22,028 - INFO - Best score at depth 1: 0.5000000000000089
+2025-02-25 15:54:22,028 - INFO - Searching at depth 2
+2025-02-25 15:54:22,054 - INFO - Best score at depth 2: -3.399999999999998
+2025-02-25 15:54:22,054 - INFO - Searching at depth 3
+2025-02-25 15:54:22,126 - INFO - Best score at depth 3: -2.9999999999999925
+2025-02-25 15:54:22,126 - INFO - Best move at depth 3: e7f6
+2025-02-25 15:54:22,126 - INFO - Top move 1: e7f6 with score 0.5000000000000089
+2025-02-25 15:54:22,126 - INFO - Top move 2: g7f6 with score 0.20000000000000462
+2025-02-25 15:54:22,126 - INFO - Selected move: e7f6 with score 0.5000000000000089
+2025-02-25 15:54:22,126 - INFO - Best move score: 0.5000000000000089
+2025-02-25 15:54:22,126 - INFO - Move calculation took 0.10 seconds
+2025-02-25 15:54:22,516 - INFO - Analyzing 22 valid moves
+2025-02-25 15:54:22,516 - INFO - Searching at depth 1
+2025-02-25 15:54:22,531 - INFO - Best score at depth 1: -2.9999999999999925
+2025-02-25 15:54:22,531 - INFO - Searching at depth 2
+2025-02-25 15:54:22,707 - INFO - Best score at depth 2: -3.4999999999999973
+2025-02-25 15:54:22,707 - INFO - Searching at depth 3
+2025-02-25 15:54:23,746 - INFO - Best score at depth 3: -0.20000000000000018
+2025-02-25 15:54:23,746 - INFO - Best move at depth 3: d8e7
+2025-02-25 15:54:23,747 - INFO - Top move 1: f8c5 with score -2.9999999999999925
+2025-02-25 15:54:23,747 - INFO - Top move 2: f8d6 with score -2.9999999999999925
+2025-02-25 15:54:23,747 - INFO - Top move 3: d7d5 with score -2.9999999999999996
+2025-02-25 15:54:23,747 - INFO - Top move 4: f8b4 with score -3.099999999999994
+2025-02-25 15:54:23,747 - INFO - Top move 5: d7d6 with score -3.1999999999999953
+2025-02-25 15:54:23,747 - INFO - Selected move: d8e7 with score -3.300000000000004
+2025-02-25 15:54:23,747 - INFO - Best move score: -2.9999999999999925
+2025-02-25 15:54:23,747 - INFO - Move calculation took 1.23 seconds
+2025-02-25 15:54:24,093 - INFO - Analyzing 21 valid moves
+2025-02-25 15:54:24,093 - INFO - Searching at depth 1
+2025-02-25 15:54:24,109 - INFO - Best score at depth 1: 6.000000000000002
+2025-02-25 15:54:24,109 - INFO - Searching at depth 2
+2025-02-25 15:54:24,140 - INFO - Best score at depth 2: -3.8499999999999996
+2025-02-25 15:54:24,140 - INFO - Searching at depth 3
+2025-02-25 15:54:24,396 - INFO - Best score at depth 3: -2.8000000000000003
+2025-02-25 15:54:24,396 - INFO - Best move at depth 3: d7d5
+2025-02-25 15:54:24,396 - INFO - Top move 1: e7e2 with score 6.000000000000002
+2025-02-25 15:54:24,396 - INFO - Top move 2: d7d5 with score -2.9999999999999996
+2025-02-25 15:54:24,396 - INFO - Top move 3: d7d6 with score -3.1999999999999953
+2025-02-25 15:54:24,396 - INFO - Top move 4: e7e4 with score -3.2999999999999967
+2025-02-25 15:54:24,396 - INFO - Top move 5: e7e6 with score -3.2999999999999967
+2025-02-25 15:54:24,396 - INFO - Selected move: d7d5 with score -2.9999999999999996
+2025-02-25 15:54:24,396 - INFO - Best move score: 6.000000000000002
+2025-02-25 15:54:24,396 - WARNING - Selected move score -2.9999999999999996 is significantly worse than best move score 6.000000000000002
+2025-02-25 15:54:24,396 - WARNING - Not capturing wQ at e7e2 when possible
+2025-02-25 15:54:24,396 - INFO - Move calculation took 0.30 seconds
+2025-02-25 15:54:24,724 - INFO - Analyzing 25 valid moves
+2025-02-25 15:54:24,724 - INFO - Searching at depth 1
+2025-02-25 15:54:24,744 - INFO - Best score at depth 1: 5.899999999999999
+2025-02-25 15:54:24,744 - INFO - Searching at depth 2
+2025-02-25 15:54:24,781 - INFO - Best score at depth 2: -3.700000000000002
+2025-02-25 15:54:24,781 - INFO - Searching at depth 3
+2025-02-25 15:54:25,141 - INFO - Best score at depth 3: -2.9000000000000004
+2025-02-25 15:54:25,141 - INFO - Best move at depth 3: c8f5
+2025-02-25 15:54:25,142 - INFO - Top move 1: e7e2 with score 5.899999999999999
+2025-02-25 15:54:25,142 - INFO - Top move 2: c8f5 with score -3.099999999999996
+2025-02-25 15:54:25,142 - INFO - Top move 3: c8e6 with score -3.099999999999996
+2025-02-25 15:54:25,142 - INFO - Top move 4: c8g4 with score -3.1999999999999975
+2025-02-25 15:54:25,142 - INFO - Top move 5: c8d7 with score -3.299999999999999
+2025-02-25 15:54:25,142 - INFO - Selected move: c8f5 with score -3.099999999999996
+2025-02-25 15:54:25,142 - INFO - Best move score: 5.899999999999999
+2025-02-25 15:54:25,142 - WARNING - Selected move score -3.099999999999996 is significantly worse than best move score 5.899999999999999
+2025-02-25 15:54:25,142 - WARNING - Not capturing wQ at e7e2 when possible
+2025-02-25 15:54:25,142 - INFO - Move calculation took 0.42 seconds
+2025-02-25 15:54:25,357 - INFO - Analyzing 29 valid moves
+2025-02-25 15:54:25,357 - INFO - Searching at depth 1
+2025-02-25 15:54:25,382 - INFO - Best score at depth 1: 6.100000000000001
+2025-02-25 15:54:25,382 - INFO - Searching at depth 2
+2025-02-25 15:54:25,461 - INFO - Best score at depth 2: -3.499999999999999
+2025-02-25 15:54:25,461 - INFO - Searching at depth 3
+2025-02-25 15:54:25,832 - INFO - Best score at depth 3: -1.9000000000000004
+2025-02-25 15:54:25,832 - INFO - Best move at depth 3: f5d3
+2025-02-25 15:54:25,832 - INFO - Top move 1: e7e2 with score 6.100000000000001
+2025-02-25 15:54:25,832 - INFO - Top move 2: f5d3 with score -2.099999999999996
+2025-02-25 15:54:25,832 - INFO - Top move 3: a8d8 with score -3.049999999999999
+2025-02-25 15:54:25,833 - INFO - Top move 4: e7e5 with score -3.1999999999999975
+2025-02-25 15:54:25,833 - INFO - Top move 5: e7e3 with score -3.1999999999999975
+2025-02-25 15:54:25,833 - INFO - Selected move: f5d3 with score -2.099999999999996
+2025-02-25 15:54:25,833 - INFO - Best move score: 6.100000000000001
+2025-02-25 15:54:25,833 - WARNING - Selected move score -2.099999999999996 is significantly worse than best move score 6.100000000000001
+2025-02-25 15:54:25,833 - INFO - Move calculation took 0.48 seconds
+2025-02-25 15:54:26,119 - INFO - Analyzing 2 valid moves
+2025-02-25 15:54:26,119 - INFO - Searching at depth 1
+2025-02-25 15:54:26,121 - INFO - Best score at depth 1: -1.9000000000000004
+2025-02-25 15:54:26,121 - INFO - Searching at depth 2
+2025-02-25 15:54:26,164 - INFO - Best score at depth 2: -5.900000000000001
+2025-02-25 15:54:26,164 - INFO - Searching at depth 3
+2025-02-25 15:54:26,297 - INFO - Best score at depth 3: -5.650000000000001
+2025-02-25 15:54:26,297 - INFO - Best move at depth 3: f8e7
+2025-02-25 15:54:26,298 - INFO - Top move 1: f8e7 with score -1.9000000000000004
+2025-02-25 15:54:26,298 - INFO - Top move 2: e8e7 with score -2.0999999999999996
+2025-02-25 15:54:26,298 - INFO - Selected move: f8e7 with score -1.9000000000000004
+2025-02-25 15:54:26,298 - INFO - Best move score: -1.9000000000000004
+2025-02-25 15:54:26,298 - INFO - Move calculation took 0.18 seconds
+2025-02-25 15:54:26,895 - INFO - Analyzing 25 valid moves
+2025-02-25 15:54:26,895 - INFO - Searching at depth 1
+2025-02-25 15:54:26,914 - INFO - Best score at depth 1: -5.650000000000001
+2025-02-25 15:54:26,914 - INFO - Searching at depth 2
+2025-02-25 15:54:27,007 - INFO - Best score at depth 2: -5.999999999999998
+2025-02-25 15:54:27,007 - INFO - Searching at depth 3
+2025-02-25 15:54:28,540 - INFO - Best score at depth 3: -5.55
+2025-02-25 15:54:28,540 - INFO - Best move at depth 3: e7b4
+2025-02-25 15:54:28,540 - INFO - Top move 1: a8d8 with score -5.650000000000001
+2025-02-25 15:54:28,540 - INFO - Top move 2: e7c5 with score -5.699999999999998
+2025-02-25 15:54:28,540 - INFO - Top move 3: e7d6 with score -5.699999999999998
+2025-02-25 15:54:28,540 - INFO - Top move 4: e7b4 with score -5.8
+2025-02-25 15:54:28,540 - INFO - Top move 5: f6f5 with score -5.800000000000003
+2025-02-25 15:54:28,540 - INFO - Selected move: e7b4 with score -5.8
+2025-02-25 15:54:28,540 - INFO - Best move score: -5.650000000000001
+2025-02-25 15:54:28,540 - INFO - Move calculation took 1.65 seconds
+2025-02-25 15:54:29,029 - INFO - Analyzing 27 valid moves
+2025-02-25 15:54:29,029 - INFO - Searching at depth 1
+2025-02-25 15:54:29,051 - INFO - Best score at depth 1: -4.499999999999999
+2025-02-25 15:54:29,051 - INFO - Searching at depth 2
+2025-02-25 15:54:29,146 - INFO - Best score at depth 2: -6.349999999999997
+2025-02-25 15:54:29,146 - INFO - Searching at depth 3
+2025-02-25 15:54:29,822 - INFO - Best score at depth 3: -5.399999999999998
+2025-02-25 15:54:29,822 - INFO - Best move at depth 3: b4d6
+2025-02-25 15:54:29,822 - INFO - Top move 1: b4c3 with score -4.499999999999999
+2025-02-25 15:54:29,822 - INFO - Top move 2: a8d8 with score -5.3500000000000005
+2025-02-25 15:54:29,822 - INFO - Top move 3: b4c5 with score -5.499999999999999
+2025-02-25 15:54:29,822 - INFO - Top move 4: b4d6 with score -5.499999999999999
+2025-02-25 15:54:29,822 - INFO - Top move 5: f6f5 with score -5.500000000000003
+2025-02-25 15:54:29,822 - INFO - Selected move: b4d6 with score -5.499999999999999
+2025-02-25 15:54:29,822 - INFO - Best move score: -4.499999999999999
+2025-02-25 15:54:29,822 - INFO - Move calculation took 0.79 seconds
+2025-02-25 15:54:32,650 - INFO - Analyzing 29 valid moves
+2025-02-25 15:54:32,650 - INFO - Searching at depth 1
+2025-02-25 15:54:32,675 - INFO - Best score at depth 1: -5.049999999999995
+2025-02-25 15:54:32,675 - INFO - Searching at depth 2
+2025-02-25 15:54:32,871 - INFO - Best score at depth 2: -6.1999999999999975
+2025-02-25 15:54:32,871 - INFO - Searching at depth 3
+2025-02-25 15:54:35,079 - INFO - Best score at depth 3: -5.549999999999998
+2025-02-25 15:54:35,079 - INFO - Best move at depth 3: a8d8
+2025-02-25 15:54:35,079 - INFO - Top move 1: d6h2 with score -5.049999999999995
+2025-02-25 15:54:35,079 - INFO - Top move 2: a8d8 with score -5.649999999999997
+2025-02-25 15:54:35,079 - INFO - Top move 3: f6f5 with score -5.799999999999999
+2025-02-25 15:54:35,079 - INFO - Top move 4: a7a6 with score -5.899999999999997
+2025-02-25 15:54:35,079 - INFO - Top move 5: a8b8 with score -5.899999999999997
+2025-02-25 15:54:35,079 - INFO - Selected move: a8d8 with score -5.649999999999997
+2025-02-25 15:54:35,079 - INFO - Best move score: -5.049999999999995
+2025-02-25 15:54:35,079 - INFO - Move calculation took 2.43 seconds
+2025-02-25 15:54:40,212 - INFO - Analyzing 29 valid moves
+2025-02-25 15:54:40,212 - INFO - Searching at depth 1
+2025-02-25 15:54:40,237 - INFO - Best score at depth 1: -4.699999999999995
+2025-02-25 15:54:40,237 - INFO - Searching at depth 2
+2025-02-25 15:54:40,337 - INFO - Best score at depth 2: -6.399999999999993
+2025-02-25 15:54:40,337 - INFO - Searching at depth 3
+2025-02-25 15:54:42,714 - INFO - Best score at depth 3: -5.299999999999995
+2025-02-25 15:54:42,715 - INFO - Best move at depth 3: e8e7
+2025-02-25 15:54:42,715 - INFO - Top move 1: d6h2 with score -4.699999999999995
+2025-02-25 15:54:42,715 - INFO - Top move 2: f6f5 with score -5.4499999999999975
+2025-02-25 15:54:42,715 - INFO - Top move 3: e8f8 with score -5.549999999999995
+2025-02-25 15:54:42,715 - INFO - Top move 4: a7a6 with score -5.549999999999995
+2025-02-25 15:54:42,715 - INFO - Top move 5: e8d7 with score -5.549999999999995
+2025-02-25 15:54:42,715 - INFO - Selected move: e8e7 with score -5.549999999999995
+2025-02-25 15:54:42,715 - INFO - Best move score: -4.699999999999995
+2025-02-25 15:54:42,715 - INFO - Move calculation took 2.50 seconds
+2025-02-25 15:54:46,353 - INFO - Analyzing 32 valid moves
+2025-02-25 15:54:46,353 - INFO - Searching at depth 1
+2025-02-25 15:54:46,382 - INFO - Best score at depth 1: -4.949999999999995
+2025-02-25 15:54:46,382 - INFO - Searching at depth 2
+2025-02-25 15:54:46,529 - INFO - Best score at depth 2: -6.399999999999993
+2025-02-25 15:54:46,529 - INFO - Searching at depth 3
+2025-02-25 15:54:50,852 - INFO - Best score at depth 3: -5.5499999999999945
+2025-02-25 15:54:50,852 - INFO - Best move at depth 3: h8e8
+2025-02-25 15:54:50,852 - INFO - Top move 1: d6h2 with score -4.949999999999995
+2025-02-25 15:54:50,852 - INFO - Top move 2: h8e8 with score -5.549999999999995
+2025-02-25 15:54:50,852 - INFO - Top move 3: f6f5 with score -5.6999999999999975
+2025-02-25 15:54:50,852 - INFO - Top move 4: h7h6 with score -5.799999999999995
+2025-02-25 15:54:50,852 - INFO - Top move 5: d6c5 with score -5.799999999999995
+2025-02-25 15:54:50,852 - INFO - Selected move: h8e8 with score -5.549999999999995
+2025-02-25 15:54:50,852 - INFO - Best move score: -4.949999999999995
+2025-02-25 15:54:50,852 - INFO - Move calculation took 4.50 seconds
+2025-02-25 15:54:52,869 - INFO - Analyzing 26 valid moves
+2025-02-25 15:54:52,870 - INFO - Searching at depth 1
+2025-02-25 15:54:52,890 - INFO - Best score at depth 1: -5.5499999999999945
+2025-02-25 15:54:52,890 - INFO - Searching at depth 2
+2025-02-25 15:54:53,061 - INFO - Best score at depth 2: -6.799999999999995
+2025-02-25 15:54:53,061 - INFO - Searching at depth 3
+2025-02-25 15:54:54,219 - INFO - Best score at depth 3: -3.4499999999999975
+2025-02-25 15:54:54,219 - INFO - Best move at depth 3: e7f8
+2025-02-25 15:54:54,219 - INFO - Top move 1: d6h2 with score -5.5499999999999945
+2025-02-25 15:54:54,219 - INFO - Top move 2: f6f5 with score -6.299999999999995
+2025-02-25 15:54:54,219 - INFO - Top move 3: d6e5 with score -6.399999999999993
+2025-02-25 15:54:54,219 - INFO - Top move 4: a7a6 with score -6.399999999999993
+2025-02-25 15:54:54,219 - INFO - Top move 5: e7d7 with score -6.399999999999993
+2025-02-25 15:54:54,219 - INFO - Selected move: e7f8 with score -6.399999999999993
+2025-02-25 15:54:54,219 - INFO - Best move score: -5.5499999999999945
+2025-02-25 15:54:54,219 - INFO - Move calculation took 1.35 seconds
+2025-02-25 15:54:55,996 - INFO - Analyzing 28 valid moves
+2025-02-25 15:54:55,996 - INFO - Searching at depth 1
+2025-02-25 15:54:56,019 - INFO - Best score at depth 1: -3.4499999999999975
+2025-02-25 15:54:56,019 - INFO - Searching at depth 2
+2025-02-25 15:54:56,141 - INFO - Best score at depth 2: -6.899999999999993
+2025-02-25 15:54:56,141 - INFO - Searching at depth 3
+2025-02-25 15:54:57,110 - INFO - Best score at depth 3: -3.2999999999999954
+2025-02-25 15:54:57,110 - INFO - Best move at depth 3: d6f4
+2025-02-25 15:54:57,110 - INFO - Top move 1: e8e3 with score -3.4499999999999975
+2025-02-25 15:54:57,110 - INFO - Top move 2: d6h2 with score -5.949999999999995
+2025-02-25 15:54:57,110 - INFO - Top move 3: f6f5 with score -6.6999999999999975
+2025-02-25 15:54:57,110 - INFO - Top move 4: d6e5 with score -6.799999999999995
+2025-02-25 15:54:57,110 - INFO - Top move 5: a7a6 with score -6.799999999999995
+2025-02-25 15:54:57,110 - INFO - Selected move: d6f4 with score -6.899999999999997
+2025-02-25 15:54:57,110 - INFO - Best move score: -3.4499999999999975
+2025-02-25 15:54:57,110 - WARNING - Selected move score -6.899999999999997 is significantly worse than best move score -3.4499999999999975
+2025-02-25 15:54:57,110 - WARNING - Not capturing wB at e8e3 when possible
+2025-02-25 15:54:57,110 - INFO - Move calculation took 1.11 seconds
+2025-02-25 15:54:58,290 - INFO - Analyzing 27 valid moves
+2025-02-25 15:54:58,290 - INFO - Searching at depth 1
+2025-02-25 15:54:58,310 - INFO - Best score at depth 1: -3.099999999999996
+2025-02-25 15:54:58,310 - INFO - Searching at depth 2
+2025-02-25 15:54:58,411 - INFO - Best score at depth 2: -7.149999999999997
+2025-02-25 15:54:58,411 - INFO - Searching at depth 3
+2025-02-25 15:54:59,066 - INFO - Best score at depth 3: -3.4499999999999975
+2025-02-25 15:54:59,066 - INFO - Best move at depth 3: e8e4
+2025-02-25 15:54:59,066 - INFO - Top move 1: f4e3 with score -3.099999999999996
+2025-02-25 15:54:59,066 - INFO - Top move 2: e8e3 with score -3.4499999999999975
+2025-02-25 15:54:59,066 - INFO - Top move 3: f4h2 with score -5.849999999999995
+2025-02-25 15:54:59,066 - INFO - Top move 4: f4d6 with score -6.699999999999994
+2025-02-25 15:54:59,066 - INFO - Top move 5: f4e5 with score -6.699999999999994
+2025-02-25 15:54:59,066 - INFO - Selected move: e8e4 with score -7.049999999999995
+2025-02-25 15:54:59,066 - INFO - Best move score: -3.099999999999996
+2025-02-25 15:54:59,066 - WARNING - Selected move score -7.049999999999995 is significantly worse than best move score -3.099999999999996
+2025-02-25 15:54:59,066 - WARNING - Not capturing wB at e8e3 when possible
+2025-02-25 15:54:59,066 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:54:59,066 - INFO - Move calculation took 0.78 seconds
+2025-02-25 15:55:00,326 - INFO - Analyzing 29 valid moves
+2025-02-25 15:55:00,326 - INFO - Searching at depth 1
+2025-02-25 15:55:00,347 - INFO - Best score at depth 1: -3.299999999999997
+2025-02-25 15:55:00,347 - INFO - Searching at depth 2
+2025-02-25 15:55:00,476 - INFO - Best score at depth 2: -7.149999999999997
+2025-02-25 15:55:00,476 - INFO - Searching at depth 3
+2025-02-25 15:55:01,299 - INFO - Best score at depth 3: -3.4000000000000004
+2025-02-25 15:55:01,299 - INFO - Best move at depth 3: e4e6
+2025-02-25 15:55:01,300 - INFO - Top move 1: f4e3 with score -3.299999999999997
+2025-02-25 15:55:01,300 - INFO - Top move 2: e4e3 with score -3.3999999999999986
+2025-02-25 15:55:01,300 - INFO - Top move 3: e4d4 with score -5.599999999999998
+2025-02-25 15:55:01,300 - INFO - Top move 4: f4h2 with score -6.049999999999995
+2025-02-25 15:55:01,300 - INFO - Top move 5: e4e8 with score -6.7499999999999964
+2025-02-25 15:55:01,300 - INFO - Selected move: e4e6 with score -6.9999999999999964
+2025-02-25 15:55:01,300 - INFO - Best move score: -3.299999999999997
+2025-02-25 15:55:01,300 - WARNING - Selected move score -6.9999999999999964 is significantly worse than best move score -3.299999999999997
+2025-02-25 15:55:01,300 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:01,300 - WARNING - Not capturing wB at e4e3 when possible
+2025-02-25 15:55:01,300 - INFO - Move calculation took 0.97 seconds
+2025-02-25 15:55:02,594 - INFO - Analyzing 34 valid moves
+2025-02-25 15:55:02,594 - INFO - Searching at depth 1
+2025-02-25 15:55:02,621 - INFO - Best score at depth 1: -3.3999999999999986
+2025-02-25 15:55:02,621 - INFO - Searching at depth 2
+2025-02-25 15:55:02,727 - INFO - Best score at depth 2: -6.899999999999996
+2025-02-25 15:55:02,727 - INFO - Searching at depth 3
+2025-02-25 15:55:04,142 - INFO - Best score at depth 3: -3.2499999999999982
+2025-02-25 15:55:04,142 - INFO - Best move at depth 3: e6e8
+2025-02-25 15:55:04,142 - INFO - Top move 1: f4e3 with score -3.3999999999999986
+2025-02-25 15:55:04,142 - INFO - Top move 2: e6e3 with score -3.4999999999999964
+2025-02-25 15:55:04,142 - INFO - Top move 3: f4h2 with score -6.149999999999995
+2025-02-25 15:55:04,142 - INFO - Top move 4: e6e8 with score -6.849999999999998
+2025-02-25 15:55:04,142 - INFO - Top move 5: f4d6 with score -6.9999999999999964
+2025-02-25 15:55:04,142 - INFO - Selected move: e6e8 with score -6.849999999999998
+2025-02-25 15:55:04,142 - INFO - Best move score: -3.3999999999999986
+2025-02-25 15:55:04,142 - WARNING - Selected move score -6.849999999999998 is significantly worse than best move score -3.3999999999999986
+2025-02-25 15:55:04,142 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:04,142 - WARNING - Not capturing wB at e6e3 when possible
+2025-02-25 15:55:04,142 - INFO - Move calculation took 1.55 seconds
+2025-02-25 15:55:05,310 - INFO - Analyzing 27 valid moves
+2025-02-25 15:55:05,310 - INFO - Searching at depth 1
+2025-02-25 15:55:05,329 - INFO - Best score at depth 1: -3.049999999999997
+2025-02-25 15:55:05,329 - INFO - Searching at depth 2
+2025-02-25 15:55:05,422 - INFO - Best score at depth 2: -7.149999999999997
+2025-02-25 15:55:05,422 - INFO - Searching at depth 3
+2025-02-25 15:55:06,078 - INFO - Best score at depth 3: -3.4000000000000004
+2025-02-25 15:55:06,078 - INFO - Best move at depth 3: e8e7
+2025-02-25 15:55:06,079 - INFO - Top move 1: f4e3 with score -3.049999999999997
+2025-02-25 15:55:06,079 - INFO - Top move 2: e8e3 with score -3.3999999999999986
+2025-02-25 15:55:06,079 - INFO - Top move 3: f4h2 with score -5.799999999999995
+2025-02-25 15:55:06,079 - INFO - Top move 4: f4d6 with score -6.649999999999995
+2025-02-25 15:55:06,079 - INFO - Top move 5: f6f5 with score -6.649999999999995
+2025-02-25 15:55:06,079 - INFO - Selected move: e8e7 with score -6.9999999999999964
+2025-02-25 15:55:06,079 - INFO - Best move score: -3.049999999999997
+2025-02-25 15:55:06,079 - WARNING - Selected move score -6.9999999999999964 is significantly worse than best move score -3.049999999999997
+2025-02-25 15:55:06,079 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:06,079 - WARNING - Not capturing wB at e8e3 when possible
+2025-02-25 15:55:06,079 - INFO - Move calculation took 0.77 seconds
+2025-02-25 15:55:07,254 - INFO - Analyzing 29 valid moves
+2025-02-25 15:55:07,254 - INFO - Searching at depth 1
+2025-02-25 15:55:07,273 - INFO - Best score at depth 1: -3.3999999999999986
+2025-02-25 15:55:07,273 - INFO - Searching at depth 2
+2025-02-25 15:55:07,351 - INFO - Best score at depth 2: -6.899999999999996
+2025-02-25 15:55:07,351 - INFO - Searching at depth 3
+2025-02-25 15:55:08,027 - INFO - Best score at depth 3: -3.6999999999999975
+2025-02-25 15:55:08,027 - INFO - Best move at depth 3: d5c4
+2025-02-25 15:55:08,027 - INFO - Top move 1: f4e3 with score -3.3999999999999986
+2025-02-25 15:55:08,027 - INFO - Top move 2: e7e3 with score -3.4999999999999964
+2025-02-25 15:55:08,027 - INFO - Top move 3: d5c4 with score -5.9999999999999964
+2025-02-25 15:55:08,027 - INFO - Top move 4: f4h2 with score -6.149999999999995
+2025-02-25 15:55:08,027 - INFO - Top move 5: e7e8 with score -6.849999999999998
+2025-02-25 15:55:08,027 - INFO - Selected move: d5c4 with score -5.9999999999999964
+2025-02-25 15:55:08,027 - INFO - Best move score: -3.3999999999999986
+2025-02-25 15:55:08,027 - WARNING - Selected move score -5.9999999999999964 is significantly worse than best move score -3.3999999999999986
+2025-02-25 15:55:08,027 - INFO - Move calculation took 0.77 seconds
+2025-02-25 15:55:08,958 - INFO - Analyzing 30 valid moves
+2025-02-25 15:55:08,958 - INFO - Searching at depth 1
+2025-02-25 15:55:08,980 - INFO - Best score at depth 1: -3.6999999999999975
+2025-02-25 15:55:08,980 - INFO - Searching at depth 2
+2025-02-25 15:55:09,059 - INFO - Best score at depth 2: -7.299999999999995
+2025-02-25 15:55:09,059 - INFO - Searching at depth 3
+2025-02-25 15:55:10,912 - INFO - Best score at depth 3: -3.7499999999999982
+2025-02-25 15:55:10,912 - INFO - Best move at depth 3: f8g8
+2025-02-25 15:55:10,913 - INFO - Top move 1: f4e3 with score -3.6999999999999975
+2025-02-25 15:55:10,913 - INFO - Top move 2: e7e3 with score -3.8000000000000007
+2025-02-25 15:55:10,913 - INFO - Top move 3: d8d4 with score -6.249999999999998
+2025-02-25 15:55:10,913 - INFO - Top move 4: f4h2 with score -6.449999999999995
+2025-02-25 15:55:10,913 - INFO - Top move 5: e7e8 with score -7.149999999999995
+2025-02-25 15:55:10,913 - INFO - Selected move: f8g8 with score -7.399999999999995
+2025-02-25 15:55:10,913 - INFO - Best move score: -3.6999999999999975
+2025-02-25 15:55:10,913 - WARNING - Selected move score -7.399999999999995 is significantly worse than best move score -3.6999999999999975
+2025-02-25 15:55:10,913 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:10,913 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:10,913 - INFO - Move calculation took 1.96 seconds
+2025-02-25 15:55:12,634 - INFO - Analyzing 32 valid moves
+2025-02-25 15:55:12,634 - INFO - Searching at depth 1
+2025-02-25 15:55:12,662 - INFO - Best score at depth 1: -3.7499999999999964
+2025-02-25 15:55:12,662 - INFO - Searching at depth 2
+2025-02-25 15:55:12,779 - INFO - Best score at depth 2: -7.349999999999994
+2025-02-25 15:55:12,779 - INFO - Searching at depth 3
+2025-02-25 15:55:14,709 - INFO - Best score at depth 3: -3.799999999999997
+2025-02-25 15:55:14,709 - INFO - Best move at depth 3: g8f8
+2025-02-25 15:55:14,710 - INFO - Top move 1: f4e3 with score -3.7499999999999964
+2025-02-25 15:55:14,710 - INFO - Top move 2: e7e3 with score -3.849999999999998
+2025-02-25 15:55:14,710 - INFO - Top move 3: d8d5 with score -6.249999999999998
+2025-02-25 15:55:14,710 - INFO - Top move 4: f4h2 with score -6.499999999999994
+2025-02-25 15:55:14,710 - INFO - Top move 5: e7e8 with score -7.199999999999994
+2025-02-25 15:55:14,710 - INFO - Selected move: g8f8 with score -7.449999999999994
+2025-02-25 15:55:14,710 - INFO - Best move score: -3.7499999999999964
+2025-02-25 15:55:14,710 - WARNING - Selected move score -7.449999999999994 is significantly worse than best move score -3.7499999999999964
+2025-02-25 15:55:14,710 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:14,710 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:14,710 - INFO - Move calculation took 2.08 seconds
+2025-02-25 15:55:16,456 - INFO - Analyzing 29 valid moves
+2025-02-25 15:55:16,456 - INFO - Searching at depth 1
+2025-02-25 15:55:16,479 - INFO - Best score at depth 1: -3.7499999999999964
+2025-02-25 15:55:16,479 - INFO - Searching at depth 2
+2025-02-25 15:55:16,557 - INFO - Best score at depth 2: -7.349999999999994
+2025-02-25 15:55:16,557 - INFO - Searching at depth 3
+2025-02-25 15:55:17,937 - INFO - Best score at depth 3: -3.799999999999997
+2025-02-25 15:55:17,937 - INFO - Best move at depth 3: f8g8
+2025-02-25 15:55:17,937 - INFO - Top move 1: f4e3 with score -3.7499999999999964
+2025-02-25 15:55:17,937 - INFO - Top move 2: e7e3 with score -3.849999999999998
+2025-02-25 15:55:17,937 - INFO - Top move 3: d8d5 with score -6.249999999999998
+2025-02-25 15:55:17,937 - INFO - Top move 4: f4h2 with score -6.499999999999995
+2025-02-25 15:55:17,937 - INFO - Top move 5: e7e8 with score -7.199999999999994
+2025-02-25 15:55:17,937 - INFO - Selected move: f8g8 with score -7.449999999999994
+2025-02-25 15:55:17,937 - INFO - Best move score: -3.7499999999999964
+2025-02-25 15:55:17,937 - WARNING - Selected move score -7.449999999999994 is significantly worse than best move score -3.7499999999999964
+2025-02-25 15:55:17,937 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:17,937 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:17,937 - INFO - Move calculation took 1.48 seconds
+2025-02-25 15:55:19,448 - INFO - Analyzing 32 valid moves
+2025-02-25 15:55:19,448 - INFO - Searching at depth 1
+2025-02-25 15:55:19,479 - INFO - Best score at depth 1: -3.7499999999999964
+2025-02-25 15:55:19,479 - INFO - Searching at depth 2
+2025-02-25 15:55:19,614 - INFO - Best score at depth 2: -7.349999999999994
+2025-02-25 15:55:19,614 - INFO - Searching at depth 3
+2025-02-25 15:55:22,734 - INFO - Best score at depth 3: -3.9999999999999964
+2025-02-25 15:55:22,734 - INFO - Best move at depth 3: f4g5
+2025-02-25 15:55:22,735 - INFO - Top move 1: f4e3 with score -3.7499999999999964
+2025-02-25 15:55:22,735 - INFO - Top move 2: e7e3 with score -3.849999999999998
+2025-02-25 15:55:22,735 - INFO - Top move 3: d8d5 with score -6.249999999999998
+2025-02-25 15:55:22,735 - INFO - Top move 4: f4h2 with score -6.499999999999995
+2025-02-25 15:55:22,735 - INFO - Top move 5: e7e8 with score -7.199999999999994
+2025-02-25 15:55:22,735 - INFO - Selected move: f4g5 with score -7.549999999999995
+2025-02-25 15:55:22,735 - INFO - Best move score: -3.7499999999999964
+2025-02-25 15:55:22,735 - WARNING - Selected move score -7.549999999999995 is significantly worse than best move score -3.7499999999999964
+2025-02-25 15:55:22,735 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:22,735 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:22,735 - INFO - Move calculation took 3.29 seconds
+2025-02-25 15:55:24,739 - INFO - Analyzing 28 valid moves
+2025-02-25 15:55:24,739 - INFO - Searching at depth 1
+2025-02-25 15:55:24,762 - INFO - Best score at depth 1: -3.9999999999999964
+2025-02-25 15:55:24,762 - INFO - Searching at depth 2
+2025-02-25 15:55:24,864 - INFO - Best score at depth 2: -7.599999999999994
+2025-02-25 15:55:24,864 - INFO - Searching at depth 3
+2025-02-25 15:55:26,596 - INFO - Best score at depth 3: -4.049999999999997
+2025-02-25 15:55:26,596 - INFO - Best move at depth 3: g5f4
+2025-02-25 15:55:26,596 - INFO - Top move 1: g5e3 with score -3.9999999999999964
+2025-02-25 15:55:26,596 - INFO - Top move 2: e7e3 with score -4.199999999999999
+2025-02-25 15:55:26,596 - INFO - Top move 3: d8d5 with score -6.6
+2025-02-25 15:55:26,596 - INFO - Top move 4: e7e8 with score -7.549999999999995
+2025-02-25 15:55:26,596 - INFO - Top move 5: g5f4 with score -7.699999999999994
+2025-02-25 15:55:26,596 - INFO - Selected move: g5f4 with score -7.699999999999994
+2025-02-25 15:55:26,597 - INFO - Best move score: -3.9999999999999964
+2025-02-25 15:55:26,597 - WARNING - Selected move score -7.699999999999994 is significantly worse than best move score -3.9999999999999964
+2025-02-25 15:55:26,597 - WARNING - Not capturing wB at g5e3 when possible
+2025-02-25 15:55:26,597 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:26,597 - INFO - Move calculation took 1.86 seconds
+2025-02-25 15:55:28,380 - INFO - Analyzing 32 valid moves
+2025-02-25 15:55:28,380 - INFO - Searching at depth 1
+2025-02-25 15:55:28,407 - INFO - Best score at depth 1: -3.9999999999999956
+2025-02-25 15:55:28,407 - INFO - Searching at depth 2
+2025-02-25 15:55:28,524 - INFO - Best score at depth 2: -7.599999999999994
+2025-02-25 15:55:28,524 - INFO - Searching at depth 3
+2025-02-25 15:55:30,273 - INFO - Best score at depth 3: -4.049999999999996
+2025-02-25 15:55:30,273 - INFO - Best move at depth 3: g8f8
+2025-02-25 15:55:30,274 - INFO - Top move 1: f4e3 with score -3.9999999999999956
+2025-02-25 15:55:30,274 - INFO - Top move 2: e7e3 with score -4.099999999999997
+2025-02-25 15:55:30,274 - INFO - Top move 3: d8d5 with score -6.499999999999998
+2025-02-25 15:55:30,274 - INFO - Top move 4: e7e8 with score -7.449999999999994
+2025-02-25 15:55:30,274 - INFO - Top move 5: f4d6 with score -7.5999999999999925
+2025-02-25 15:55:30,274 - INFO - Selected move: g8f8 with score -7.699999999999994
+2025-02-25 15:55:30,274 - INFO - Best move score: -3.9999999999999956
+2025-02-25 15:55:30,274 - WARNING - Selected move score -7.699999999999994 is significantly worse than best move score -3.9999999999999956
+2025-02-25 15:55:30,274 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:30,274 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:30,274 - INFO - Move calculation took 1.89 seconds
+2025-02-25 15:55:31,864 - INFO - Analyzing 29 valid moves
+2025-02-25 15:55:31,864 - INFO - Searching at depth 1
+2025-02-25 15:55:31,886 - INFO - Best score at depth 1: -3.9999999999999956
+2025-02-25 15:55:31,886 - INFO - Searching at depth 2
+2025-02-25 15:55:31,977 - INFO - Best score at depth 2: -7.599999999999994
+2025-02-25 15:55:31,977 - INFO - Searching at depth 3
+2025-02-25 15:55:33,688 - INFO - Best score at depth 3: -5.699999999999996
+2025-02-25 15:55:33,688 - INFO - Best move at depth 3: f8g8
+2025-02-25 15:55:33,689 - INFO - Top move 1: f4e3 with score -3.9999999999999956
+2025-02-25 15:55:33,689 - INFO - Top move 2: e7e3 with score -4.099999999999997
+2025-02-25 15:55:33,689 - INFO - Top move 3: d8d5 with score -6.499999999999998
+2025-02-25 15:55:33,689 - INFO - Top move 4: e7e8 with score -7.449999999999994
+2025-02-25 15:55:33,689 - INFO - Top move 5: f4e5 with score -7.5999999999999925
+2025-02-25 15:55:33,689 - INFO - Selected move: f8g8 with score -7.699999999999994
+2025-02-25 15:55:33,689 - INFO - Best move score: -3.9999999999999956
+2025-02-25 15:55:33,689 - WARNING - Selected move score -7.699999999999994 is significantly worse than best move score -3.9999999999999956
+2025-02-25 15:55:33,689 - WARNING - Not capturing wB at e7e3 when possible
+2025-02-25 15:55:33,689 - WARNING - Not capturing wB at f4e3 when possible
+2025-02-25 15:55:33,689 - INFO - Move calculation took 1.83 seconds
+2025-02-25 15:55:35,491 - INFO - Analyzing 27 valid moves
+2025-02-25 15:55:35,491 - INFO - Searching at depth 1
+2025-02-25 15:55:35,513 - INFO - Best score at depth 1: -5.699999999999996
+2025-02-25 15:55:35,513 - INFO - Searching at depth 2
+2025-02-25 15:55:35,591 - INFO - Best score at depth 2: -10.949999999999996
+2025-02-25 15:55:35,591 - INFO - Searching at depth 3
+2025-02-25 15:55:36,511 - INFO - Best score at depth 3: -9.750000000000002
+2025-02-25 15:55:36,511 - INFO - Best move at depth 3: e7e1
+2025-02-25 15:55:36,511 - INFO - Top move 1: e7e1 with score -5.699999999999996
+2025-02-25 15:55:36,511 - INFO - Top move 2: d8d5 with score -10.0
+2025-02-25 15:55:36,511 - INFO - Top move 3: e7e2 with score -10.699999999999996
+2025-02-25 15:55:36,511 - INFO - Top move 4: e7e8 with score -10.949999999999996
+2025-02-25 15:55:36,512 - INFO - Top move 5: f6f5 with score -11.099999999999998
+2025-02-25 15:55:36,512 - INFO - Selected move: e7e1 with score -5.699999999999996
+2025-02-25 15:55:36,512 - INFO - Best move score: -5.699999999999996
+2025-02-25 15:55:36,512 - INFO - Move calculation took 1.02 seconds
+2025-02-25 15:55:36,689 - INFO - Analyzing 19 valid moves
+2025-02-25 15:55:36,689 - INFO - Searching at depth 1
+2025-02-25 15:55:36,700 - INFO - Best score at depth 1: -9.750000000000002
+2025-02-25 15:55:36,700 - INFO - Searching at depth 2
+2025-02-25 15:55:36,776 - INFO - Best score at depth 2: -11.099999999999998
+2025-02-25 15:55:36,776 - INFO - Searching at depth 3
+2025-02-25 15:55:37,228 - INFO - Best score at depth 3: -9.099999999999998
+2025-02-25 15:55:37,228 - INFO - Best move at depth 3: c7c6
+2025-02-25 15:55:37,228 - INFO - Top move 1: d8d5 with score -9.750000000000002
+2025-02-25 15:55:37,228 - INFO - Top move 2: f6f5 with score -10.849999999999998
+2025-02-25 15:55:37,228 - INFO - Top move 3: g8f8 with score -10.949999999999996
+2025-02-25 15:55:37,228 - INFO - Top move 4: g8h8 with score -10.949999999999996
+2025-02-25 15:55:37,228 - INFO - Top move 5: g8h7 with score -10.949999999999996
+2025-02-25 15:55:37,228 - INFO - Selected move: c7c6 with score -11.149999999999999
+2025-02-25 15:55:37,228 - INFO - Best move score: -9.750000000000002
+2025-02-25 15:55:37,228 - WARNING - Selected move score -11.149999999999999 is significantly worse than best move score -9.750000000000002
+2025-02-25 15:55:37,228 - INFO - Move calculation took 0.54 seconds
+2025-02-25 15:55:38,384 - INFO - Analyzing 22 valid moves
+2025-02-25 15:55:38,384 - INFO - Searching at depth 1
+2025-02-25 15:55:38,398 - INFO - Best score at depth 1: -6.950000000000003
+2025-02-25 15:55:38,398 - INFO - Searching at depth 2
+2025-02-25 15:55:38,452 - INFO - Best score at depth 2: -12.200000000000003
+2025-02-25 15:55:38,452 - INFO - Searching at depth 3
+2025-02-25 15:55:38,843 - INFO - Best score at depth 3: -11.0
+2025-02-25 15:55:38,843 - INFO - Best move at depth 3: d8e8
+2025-02-25 15:55:38,843 - INFO - Top move 1: d8d1 with score -6.950000000000003
+2025-02-25 15:55:38,843 - INFO - Top move 2: b7c6 with score -11.0
+2025-02-25 15:55:38,843 - INFO - Top move 3: d8d2 with score -11.950000000000003
+2025-02-25 15:55:38,843 - INFO - Top move 4: f6f5 with score -12.099999999999998
+2025-02-25 15:55:38,843 - INFO - Top move 5: d8e8 with score -12.2
+2025-02-25 15:55:38,843 - INFO - Selected move: d8e8 with score -12.2
+2025-02-25 15:55:38,843 - INFO - Best move score: -6.950000000000003
+2025-02-25 15:55:38,843 - WARNING - Selected move score -12.2 is significantly worse than best move score -6.950000000000003
+2025-02-25 15:55:38,843 - WARNING - Not capturing wR at d8d1 when possible
+2025-02-25 15:55:38,843 - INFO - Move calculation took 0.46 seconds
+2025-02-25 15:55:39,010 - INFO - Analyzing 22 valid moves
+2025-02-25 15:55:39,011 - INFO - Searching at depth 1
+2025-02-25 15:55:39,026 - INFO - Best score at depth 1: -11.0
+2025-02-25 15:55:39,026 - INFO - Searching at depth 2
+2025-02-25 15:55:39,070 - INFO - Best score at depth 2: -12.099999999999998
+2025-02-25 15:55:39,070 - INFO - Searching at depth 3
+2025-02-25 15:55:39,640 - INFO - Best score at depth 3: -8.850000000000001
+2025-02-25 15:55:39,640 - INFO - Best move at depth 3: e8d8
+2025-02-25 15:55:39,640 - INFO - Top move 1: b7c6 with score -11.0
+2025-02-25 15:55:39,640 - INFO - Top move 2: e8e2 with score -11.950000000000003
+2025-02-25 15:55:39,640 - INFO - Top move 3: f6f5 with score -12.099999999999998
+2025-02-25 15:55:39,640 - INFO - Top move 4: a7a6 with score -12.2
+2025-02-25 15:55:39,641 - INFO - Top move 5: g8h7 with score -12.2
+2025-02-25 15:55:39,641 - INFO - Selected move: e8d8 with score -12.2
+2025-02-25 15:55:39,641 - INFO - Best move score: -11.0
+2025-02-25 15:55:39,641 - WARNING - Selected move score -12.2 is significantly worse than best move score -11.0
+2025-02-25 15:55:39,641 - INFO - Move calculation took 0.63 seconds
+2025-02-25 15:55:39,793 - INFO - Analyzing 22 valid moves
+2025-02-25 15:55:39,793 - INFO - Searching at depth 1
+2025-02-25 15:55:39,810 - INFO - Best score at depth 1: -6.950000000000003
+2025-02-25 15:55:39,810 - INFO - Searching at depth 2
+2025-02-25 15:55:39,859 - INFO - Best score at depth 2: -12.200000000000003
+2025-02-25 15:55:39,859 - INFO - Searching at depth 3
+2025-02-25 15:55:40,290 - INFO - Best score at depth 3: -11.0
+2025-02-25 15:55:40,290 - INFO - Best move at depth 3: d8e8
+2025-02-25 15:55:40,291 - INFO - Top move 1: d8d1 with score -6.950000000000003
+2025-02-25 15:55:40,291 - INFO - Top move 2: b7c6 with score -11.0
+2025-02-25 15:55:40,291 - INFO - Top move 3: d8d2 with score -11.950000000000003
+2025-02-25 15:55:40,291 - INFO - Top move 4: f6f5 with score -12.099999999999998
+2025-02-25 15:55:40,291 - INFO - Top move 5: g8f8 with score -12.2
+2025-02-25 15:55:40,291 - INFO - Selected move: d8e8 with score -12.2
+2025-02-25 15:55:40,291 - INFO - Best move score: -6.950000000000003
+2025-02-25 15:55:40,291 - WARNING - Selected move score -12.2 is significantly worse than best move score -6.950000000000003
+2025-02-25 15:55:40,291 - WARNING - Not capturing wR at d8d1 when possible
+2025-02-25 15:55:40,291 - INFO - Move calculation took 0.50 seconds
+2025-02-25 15:55:40,558 - INFO - Analyzing 22 valid moves
+2025-02-25 15:55:40,558 - INFO - Searching at depth 1
+2025-02-25 15:55:40,573 - INFO - Best score at depth 1: -11.0
+2025-02-25 15:55:40,573 - INFO - Searching at depth 2
+2025-02-25 15:55:40,624 - INFO - Best score at depth 2: -12.099999999999998
+2025-02-25 15:55:40,624 - INFO - Searching at depth 3
+2025-02-25 15:55:41,200 - INFO - Best score at depth 3: -10.700000000000003
+2025-02-25 15:55:41,200 - INFO - Best move at depth 3: a7a6
+2025-02-25 15:55:41,200 - INFO - Top move 1: b7c6 with score -11.0
+2025-02-25 15:55:41,200 - INFO - Top move 2: e8e2 with score -11.950000000000003
+2025-02-25 15:55:41,200 - INFO - Top move 3: f6f5 with score -12.099999999999998
+2025-02-25 15:55:41,200 - INFO - Top move 4: g8f8 with score -12.2
+2025-02-25 15:55:41,200 - INFO - Top move 5: a7a6 with score -12.2
+2025-02-25 15:55:41,200 - INFO - Selected move: a7a6 with score -12.2
+2025-02-25 15:55:41,200 - INFO - Best move score: -11.0
+2025-02-25 15:55:41,200 - WARNING - Selected move score -12.2 is significantly worse than best move score -11.0
+2025-02-25 15:55:41,200 - INFO - Move calculation took 0.64 seconds
+2025-02-25 15:55:42,347 - INFO - Analyzing 22 valid moves
+2025-02-25 15:55:42,347 - INFO - Searching at depth 1
+2025-02-25 15:55:42,362 - INFO - Best score at depth 1: -8.75
+2025-02-25 15:55:42,362 - INFO - Searching at depth 2
+2025-02-25 15:55:42,433 - INFO - Best score at depth 2: -13.8
+2025-02-25 15:55:42,433 - INFO - Searching at depth 3
+2025-02-25 15:55:42,962 - INFO - Best score at depth 3: -10.35
+2025-02-25 15:55:42,962 - INFO - Best move at depth 3: e8d8
+2025-02-25 15:55:42,963 - INFO - Top move 1: a6b5 with score -8.75
+2025-02-25 15:55:42,963 - INFO - Top move 2: b7c6 with score -11.0
+2025-02-25 15:55:42,963 - INFO - Top move 3: e8e2 with score -11.95
+2025-02-25 15:55:42,963 - INFO - Top move 4: f6f5 with score -12.1
+2025-02-25 15:55:42,963 - INFO - Top move 5: g8h8 with score -12.2
+2025-02-25 15:55:42,963 - INFO - Selected move: e8d8 with score -12.2
+2025-02-25 15:55:42,963 - INFO - Best move score: -8.75
+2025-02-25 15:55:42,963 - WARNING - Selected move score -12.2 is significantly worse than best move score -8.75
+2025-02-25 15:55:42,963 - WARNING - Not capturing wB at a6b5 when possible
+2025-02-25 15:55:42,963 - INFO - Move calculation took 0.62 seconds
+2025-02-25 15:55:44,601 - INFO - Analyzing 16 valid moves
+2025-02-25 15:55:44,602 - INFO - Searching at depth 1
+2025-02-25 15:55:44,612 - INFO - Best score at depth 1: -9.05
+2025-02-25 15:55:44,612 - INFO - Searching at depth 2
+2025-02-25 15:55:44,642 - INFO - Best score at depth 2: -12.849999999999998
+2025-02-25 15:55:44,642 - INFO - Searching at depth 3
+2025-02-25 15:55:44,924 - INFO - Best score at depth 3: -10.899999999999999
+2025-02-25 15:55:44,924 - INFO - Best move at depth 3: d8d6
+2025-02-25 15:55:44,924 - INFO - Top move 1: a6b5 with score -9.05
+2025-02-25 15:55:44,924 - INFO - Top move 2: d8d6 with score -9.100000000000001
+2025-02-25 15:55:44,924 - INFO - Top move 3: f6f5 with score -12.4
+2025-02-25 15:55:44,924 - INFO - Top move 4: g8f8 with score -12.5
+2025-02-25 15:55:44,924 - INFO - Top move 5: g8h8 with score -12.5
+2025-02-25 15:55:44,924 - INFO - Selected move: d8d6 with score -9.100000000000001
+2025-02-25 15:55:44,924 - INFO - Best move score: -9.05
+2025-02-25 15:55:44,924 - INFO - Move calculation took 0.32 seconds
+2025-02-25 15:55:45,476 - INFO - Analyzing 9 valid moves
+2025-02-25 15:55:45,476 - INFO - Searching at depth 1
+2025-02-25 15:55:45,480 - INFO - Best score at depth 1: -10.650000000000002
+2025-02-25 15:55:45,480 - INFO - Searching at depth 2
+2025-02-25 15:55:45,490 - INFO - Best score at depth 2: -14.95
+2025-02-25 15:55:45,490 - INFO - Searching at depth 3
+2025-02-25 15:55:45,553 - INFO - Best score at depth 3: -13.95
+2025-02-25 15:55:45,553 - INFO - Best move at depth 3: a6b5
+2025-02-25 15:55:45,553 - INFO - Top move 1: a6b5 with score -10.650000000000002
+2025-02-25 15:55:45,553 - INFO - Top move 2: f6f5 with score -14.0
+2025-02-25 15:55:45,553 - INFO - Top move 3: g8h7 with score -14.1
+2025-02-25 15:55:45,553 - INFO - Top move 4: g8h8 with score -14.1
+2025-02-25 15:55:45,553 - INFO - Top move 5: g8f8 with score -14.1
+2025-02-25 15:55:45,553 - INFO - Selected move: a6b5 with score -10.650000000000002
+2025-02-25 15:55:45,553 - INFO - Best move score: -10.650000000000002
+2025-02-25 15:55:45,553 - INFO - Move calculation took 0.08 seconds
+2025-02-25 15:55:45,767 - INFO - Analyzing 1 valid moves
+2025-02-25 15:55:45,767 - INFO - Searching at depth 1
+2025-02-25 15:55:45,767 - INFO - Best score at depth 1: -18.150000000000002
+2025-02-25 15:55:45,767 - INFO - Searching at depth 2
+2025-02-25 15:55:45,781 - INFO - Best score at depth 2: -19.650000000000002
+2025-02-25 15:55:45,781 - INFO - Searching at depth 3
+2025-02-25 15:55:45,816 - INFO - Best score at depth 3: -19.550000000000004
+2025-02-25 15:55:45,816 - INFO - Best move at depth 3: g8h7
+2025-02-25 15:55:45,816 - INFO - Top move 1: g8h7 with score -18.150000000000002
+2025-02-25 15:55:45,816 - INFO - Selected move: g8h7 with score -18.150000000000002
+2025-02-25 15:55:45,816 - INFO - Best move score: -18.150000000000002
+2025-02-25 15:55:45,816 - INFO - Move calculation took 0.05 seconds
+2025-02-25 15:55:46,401 - INFO - Analyzing 7 valid moves
+2025-02-25 15:55:46,401 - INFO - Searching at depth 1
+2025-02-25 15:55:46,404 - INFO - Best score at depth 1: -19.550000000000004
+2025-02-25 15:55:46,404 - INFO - Searching at depth 2
+2025-02-25 15:55:46,440 - INFO - Best score at depth 2: -20.85
+2025-02-25 15:55:46,440 - INFO - Searching at depth 3
+2025-02-25 15:55:46,516 - INFO - Best score at depth 3: -20.75
+2025-02-25 15:55:46,516 - INFO - Best move at depth 3: h7g8
+2025-02-25 15:55:46,516 - INFO - Top move 1: f6f5 with score -19.550000000000004
+2025-02-25 15:55:46,516 - INFO - Top move 2: b5b4 with score -19.6
+2025-02-25 15:55:46,516 - INFO - Top move 3: h7g6 with score -19.650000000000002
+2025-02-25 15:55:46,516 - INFO - Top move 4: h7g8 with score -19.650000000000002
+2025-02-25 15:55:46,516 - INFO - Top move 5: h7h8 with score -19.650000000000002
+2025-02-25 15:55:46,516 - INFO - Selected move: h7g8 with score -19.650000000000002
+2025-02-25 15:55:46,516 - INFO - Best move score: -19.550000000000004
+2025-02-25 15:55:46,516 - INFO - Move calculation took 0.12 seconds
+2025-02-25 15:55:47,024 - INFO - Analyzing 6 valid moves
+2025-02-25 15:55:47,024 - INFO - Searching at depth 1
+2025-02-25 15:55:47,027 - INFO - Best score at depth 1: -20.75
+2025-02-25 15:55:47,027 - INFO - Searching at depth 2
+2025-02-25 15:55:47,040 - INFO - Best score at depth 2: -21.950000000000003
+2025-02-25 15:55:47,040 - INFO - Searching at depth 3
+2025-02-25 15:55:47,112 - INFO - Best score at depth 3: -20.950000000000003
+2025-02-25 15:55:47,112 - INFO - Best move at depth 3: g7g5
+2025-02-25 15:55:47,112 - INFO - Top move 1: f6f5 with score -20.75
+2025-02-25 15:55:47,112 - INFO - Top move 2: g8f8 with score -20.85
+2025-02-25 15:55:47,112 - INFO - Top move 3: g8h7 with score -20.85
+2025-02-25 15:55:47,112 - INFO - Top move 4: g8h8 with score -20.85
+2025-02-25 15:55:47,112 - INFO - Top move 5: g7g5 with score -20.950000000000003
+2025-02-25 15:55:47,112 - INFO - Selected move: g7g5 with score -20.950000000000003
+2025-02-25 15:55:47,112 - INFO - Best move score: -20.75
+2025-02-25 15:55:47,112 - INFO - Move calculation took 0.09 seconds
+2025-02-25 15:55:47,420 - INFO - Analyzing 2 valid moves
+2025-02-25 15:55:47,420 - INFO - Searching at depth 1
+2025-02-25 15:55:47,421 - INFO - Best score at depth 1: -20.85
+2025-02-25 15:55:47,421 - INFO - Searching at depth 2
+2025-02-25 15:55:47,433 - INFO - Best score at depth 2: -22.250000000000004
+2025-02-25 15:55:47,433 - INFO - Searching at depth 3
+2025-02-25 15:55:47,465 - INFO - Best score at depth 3: -20.750000000000004
+2025-02-25 15:55:47,465 - INFO - Best move at depth 3: g8g7
+2025-02-25 15:55:47,465 - INFO - Top move 1: g8g7 with score -20.85
+2025-02-25 15:55:47,465 - INFO - Top move 2: g8h7 with score -20.85
+2025-02-25 15:55:47,465 - INFO - Selected move: g8g7 with score -20.85
+2025-02-25 15:55:47,465 - INFO - Best move score: -20.85
+2025-02-25 15:55:47,465 - INFO - Move calculation took 0.05 seconds
+2025-02-25 15:55:47,857 - INFO - Analyzing 4 valid moves
+2025-02-25 15:55:47,857 - INFO - Searching at depth 1
+2025-02-25 15:55:47,858 - INFO - Best score at depth 1: -20.750000000000004
+2025-02-25 15:55:47,858 - INFO - Searching at depth 2
+2025-02-25 15:55:47,881 - INFO - Best score at depth 2: -21.950000000000003
+2025-02-25 15:55:47,881 - INFO - Searching at depth 3
+2025-02-25 15:55:47,931 - INFO - Best score at depth 3: -22.000000000000004
+2025-02-25 15:55:47,931 - INFO - Best move at depth 3: f6f5
+2025-02-25 15:55:47,931 - INFO - Top move 1: f6f5 with score -20.750000000000004
+2025-02-25 15:55:47,931 - INFO - Top move 2: g7h7 with score -20.85
+2025-02-25 15:55:47,931 - INFO - Top move 3: g7h6 with score -20.85
+2025-02-25 15:55:47,931 - INFO - Top move 4: g7g6 with score -20.85
+2025-02-25 15:55:47,931 - INFO - Selected move: f6f5 with score -20.750000000000004
+2025-02-25 15:55:47,931 - INFO - Best move score: -20.750000000000004
+2025-02-25 15:55:47,931 - INFO - Move calculation took 0.07 seconds
+2025-02-25 15:55:48,169 - INFO - Analyzing 3 valid moves
+2025-02-25 15:55:48,169 - INFO - Searching at depth 1
+2025-02-25 15:55:48,170 - INFO - Best score at depth 1: -22.000000000000004
+2025-02-25 15:55:48,170 - INFO - Searching at depth 2
+2025-02-25 15:55:48,174 - INFO - Best score at depth 2: -23.250000000000004
+2025-02-25 15:55:48,174 - INFO - Searching at depth 3
+2025-02-25 15:55:48,215 - INFO - Best score at depth 3: -22.750000000000004
+2025-02-25 15:55:48,215 - INFO - Best move at depth 3: f7f6
+2025-02-25 15:55:48,215 - INFO - Top move 1: g5g4 with score -22.000000000000004
+2025-02-25 15:55:48,215 - INFO - Top move 2: g7h7 with score -22.050000000000004
+2025-02-25 15:55:48,215 - INFO - Top move 3: f7f6 with score -22.250000000000004
+2025-02-25 15:55:48,215 - INFO - Selected move: f7f6 with score -22.250000000000004
+2025-02-25 15:55:48,215 - INFO - Best move score: -22.000000000000004
+2025-02-25 15:55:48,215 - INFO - Move calculation took 0.05 seconds
+2025-02-25 15:55:48,390 - INFO - Analyzing 1 valid moves
+2025-02-25 15:55:48,390 - INFO - Searching at depth 1
+2025-02-25 15:55:48,390 - INFO - Best score at depth 1: -22.750000000000004
+2025-02-25 15:55:48,390 - INFO - Searching at depth 2
+2025-02-25 15:55:48,391 - INFO - Best score at depth 2: -1000
+2025-02-25 15:55:48,391 - INFO - Searching at depth 3
+2025-02-25 15:55:48,392 - INFO - Best score at depth 3: -1000
+2025-02-25 15:55:48,392 - INFO - Top move 1: g7h6 with score -22.750000000000004
+2025-02-25 15:55:48,392 - ERROR - No move was selected!
+2025-02-25 15:55:48,392 - INFO - Move calculation took 0.00 seconds
+2025-02-25 15:55:48,524 - INFO - Analyzing 1 valid moves
+2025-02-25 15:55:48,524 - INFO - Searching at depth 1
+2025-02-25 15:55:48,525 - INFO - Best score at depth 1: -22.650000000000002
+2025-02-25 15:55:48,525 - INFO - Searching at depth 2
+2025-02-25 15:55:48,530 - INFO - Best score at depth 2: -1000
+2025-02-25 15:55:48,530 - INFO - Searching at depth 3
+2025-02-25 15:55:48,546 - INFO - Best score at depth 3: -1000
+2025-02-25 15:55:48,546 - INFO - Top move 1: h6h5 with score -22.650000000000002
+2025-02-25 15:55:48,546 - ERROR - No move was selected!

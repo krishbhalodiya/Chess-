@@ -1,7 +1,7 @@
 import pygame as p
 import sys
 import time
-from Chess import chessEngine, chessBot, chessAI, chessAI2
+import chessEngine, chessBot, chessAI, chessAI2
 
 p.init()
 WIDTH = HEIGHT = 512  # 400 is another option
@@ -11,21 +11,21 @@ MAX_FPS = 15  # for animations later on
 IMAGES = {}
 
 # Load custom font
-FANCY_FONT = p.font.Font("fancy_font.ttf", 32)
+FANCY_FONT = p.font.Font("/Users/krishbhalodiya/Desktop/Chess-/Chess/fancy_font.ttf", 32)
 
 # Load background image
-BACKGROUND_IMAGE = p.image.load("img.png")
+BACKGROUND_IMAGE = p.image.load("/Users/krishbhalodiya/Desktop/Chess-/Chess/img.png")
 BACKGROUND_IMAGE = p.transform.scale(BACKGROUND_IMAGE, (WIDTH, HEIGHT))
 
 
 def loadImages():
     pieces = ['wP', 'wR', 'wN', 'wB', 'wQ', 'wK', 'bP', 'bR', 'bN', 'bB', 'bQ', 'bK']
     for piece in pieces:
-        IMAGES[piece] = p.transform.scale(p.image.load("chess pieces/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
+        IMAGES[piece] = p.transform.scale(p.image.load("/Users/krishbhalodiya/Desktop/Chess-/Chess/chess pieces/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
     # Promotion pieces
     promotion_pieces = ['wQ', 'wR', 'wB', 'wN']
     for piece in promotion_pieces:
-        IMAGES[piece] = p.transform.scale(p.image.load("chess pieces/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
+        IMAGES[piece] = p.transform.scale(p.image.load("/Users/krishbhalodiya/Desktop/Chess-/Chess/chess pieces/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
 
 
 def draw_button(screen, rect, text, font, color, bg_color):

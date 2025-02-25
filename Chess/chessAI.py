@@ -1,4 +1,4 @@
-from Chess import chessEngine
+import chessEngine
 import random
 
 pieceScore = {"K": 0, "Q": 9, "R": 5, "B": 3, "N": 3, "P": 1}
